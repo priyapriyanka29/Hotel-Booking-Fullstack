@@ -10,7 +10,7 @@ This application allows users to book hotel rooms and view all reservations in r
 
 - 📌 Create new room bookings
 - 📋 View all reservations
-- ☁️ Cloud database integration (MongoDB Atlas)
+- ☁️ Cloud database integration (MongoDB Atlas)       
 - 🔗 RESTful API architecture
 - ⚡ Real-time frontend updates
 - 🛡 Secure environment variable handling
